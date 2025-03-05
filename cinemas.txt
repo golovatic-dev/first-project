@@ -2,4 +2,6 @@ cineplex
 afisha
 Cineplex mall
 Cineplex centru
-
+megaplex
+cinema
+...
