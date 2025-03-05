@@ -1,8 +1,7 @@
-cineplex Partia Mall
+patria cineplex mall
 afisha
 Cineplex mall
 Cineplex centru
 megaplex
 cinema
-...
 ABCDEF
